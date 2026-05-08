@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c9525a2-665a-4069-840e-96739cbd3367" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/AdminUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/EBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/GuestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/PermanentAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/PrintedBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/RegularUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/util/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/util/FineCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/util/PremiumFineCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/util/RegularFineCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/library/util/ValidationUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ProjectId" id="3DPdGsfVxpHPic6SSBOIs0l7MlA" />
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Thanuja\Documents\GitTest\book_store_01\LibraryManagementSystem\src\main\java\com\library" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
 </project>
